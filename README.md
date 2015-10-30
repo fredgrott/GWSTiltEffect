@@ -18,7 +18,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSTiltEffect:1.0.0.0@aar'
+compile 'com.github.shareme:GWSTiltEffect:{latest-release-number}@aar'
 ```
 
 
